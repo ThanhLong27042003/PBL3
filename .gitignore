@@ -2,7 +2,7 @@
 /PBL3.sql
 /.vs/
 /PBL3/bin/
-/PBL3/obj/
+/PBL3/obj/Debug/
 /PBL3/DAL/*.Context.cs
 /PBL3/DAL/*.Context.tt
 /PBL3/DAL/*.cs
