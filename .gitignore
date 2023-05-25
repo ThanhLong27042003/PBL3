@@ -1,2 +1,12 @@
 PBL3/App.Config
+PBL3.sql
+.vs
+PBL3/bin
+PBL3/obj
+PBL3/DAL/PBL3.Context.cs
+PBL3/DAL/PBL3.Context.tt
+PBL3/DAL/PBL3.cs
+PBL3/DAL/PBL3.Designer.cs
 PBL3/DAL/PBL3.edmx
+PBL3/DAL/PBL3.edmx.diagram
+PBL3/DAL/PBL3.tt
