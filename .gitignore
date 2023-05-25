@@ -1,5 +1,4 @@
 /PBL3/App.Config
-/PBL3.sql
 /.vs/
 /PBL3/bin/
 /PBL3/obj/Debug/
@@ -10,3 +9,4 @@
 /PBL3/DAL/*.edmx
 /PBL3/DAL/*.edmx.diagram
 /PBL3/DAL/*.tt
+PBL3.sql
